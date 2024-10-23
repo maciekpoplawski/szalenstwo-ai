@@ -1,6 +1,9 @@
 # szalenstwo-ai
 All the links, tools and examples from "Szaleństwo AI - najbardziej spektakularne przykłady" at East Design Days 2024
 
+![5e92dcfd1d334bd5ab2ec76fff9e2b04](https://github.com/user-attachments/assets/ae72ebe5-656a-4b2c-96cf-f0fad5c23c9d)
+
+
 ## Text Generation
 
 [ChatGPT](https://chatgpt.com/)  
